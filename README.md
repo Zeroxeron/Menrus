@@ -1,4 +1,4 @@
-MEnRus - Commands language autoswitch plugin.
+MEnRus - Dead simple and lightweight commands language autoswitch plugin.
 ## Demo:
 ![enrus1](https://github.com/user-attachments/assets/4a265124-c07c-4cdf-8f02-ee342ebb424c)
 
@@ -16,6 +16,14 @@ Menrus распознает сообщения чата на русском яз
 > 
 > ".spawn" -> "/spawn"
 
+## Права и команды
+`menrus.admin` 
+> /menrus reload
+> 
+> /menrus version 
+
+*Настроить сообщения можно в конфиг-файле* **config.yml**
+
 Мой дискорд для связи: #kxxa
 
 ## ПРИМЕЧАНИЕ:
@@ -30,6 +38,14 @@ Menrus recognizes occasional chat messages in russian that suppose to be a comma
 > "/рудз" -> "/help"
 > 
 > ".spawn" -> "/spawn"
+
+## Permissions & commands
+`menrus.admin` 
+> /menrus reload
+> 
+> /menrus version 
+
+*You can setup plugin messages in* **config.yml**
 
 Contact me in discord: #kxxa
 
