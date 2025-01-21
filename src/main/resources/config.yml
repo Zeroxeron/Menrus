@@ -1,0 +1,5 @@
+Prefix: Menrus
+Debug: false
+
+messages:
+  noPermission: "Недостаточно прав для выполнения команды."
