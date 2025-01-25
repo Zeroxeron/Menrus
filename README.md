@@ -5,9 +5,12 @@ MEnRus - Dead simple and lightweight commands language autoswitch plugin.
 ![enrus2](https://github.com/user-attachments/assets/76392142-f54b-414e-8559-1e35f37abb56)
 
 ### Download
+Tested on these versions:
 - [1.21.4](https://github.com/Zeroxeron/Menrus/releases/tag/1.21.4)
 - [1.19.4](https://drive.google.com/file/d/1Pmm549WzGjuHQSaY4hmazIqynrKaq_cj/view?usp=drive_link)
 - [1.18.2](https://drive.google.com/file/d/1lFG40mpinxAskxNxbkO6bIHeSTUlQxGd/view?usp=drive_link) *(Enrus)*
+
+*Works on* **Bukkit**, **Spigot**, **Paper** *& probably on their forks*
 
 ---
 
