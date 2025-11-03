@@ -36,7 +36,7 @@ Menrus распознает сообщения чата на русском яз
 ---
 
 ### Description [EN]
-Menrus recognizes occasional chat messages in russian that suppose to be a command and therefor **executes** them.
+Menrus recognizes occasional chat messages in russian that suppose to be a command and therefore **executes** them.
 > ".рщьу" -> "/home"
 > 
 > "/рудз" -> "/help"
