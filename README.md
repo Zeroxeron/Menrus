@@ -30,8 +30,6 @@ Menrus распознает сообщения чата на русском яз
 
 *Настроить сообщения можно в конфиг-файле* **config.yml**
 
-Мой дискорд для связи: #kxxa
-
 ### ПРИМЕЧАНИЕ:
 *Я не занимаюсь активными разработками и не являюсь первоклассным программистом плагинов. При выявляющихся проблемах - буду рад любой вашей помощи. В конце концов, может быть, именно тебе этот плагин больше нужен рабочим, чем мне :)*
 
@@ -52,8 +50,6 @@ Menrus recognizes occasional chat messages in russian that suppose to be a comma
 > /menrus version 
 
 *You can setup plugin messages in* **config.yml**
-
-Contact me in discord: #kxxa
 
 ## NOTICE:
 *This was meant to be a private plugin and also I'm not an active or elite plugin developer. If there are any issues with my plugins I'll be happy to recieve your help. You may need it working more than me, after all :)*
